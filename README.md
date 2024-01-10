@@ -1,5 +1,5 @@
 # Overview
-This is a python file that prints "Hello World" and a little information about me to the Screen
+This is a python file that prints "Hello World" and a little information about me to the Screen.
 This is a general Hello World program to start up my repository.
 
 
